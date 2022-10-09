@@ -1,0 +1,23 @@
+body{
+    background-color:aqua;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-size:2rem;
+}
+
+ul{
+    margin-left:3rem;
+    font-size:1.5rem;
+}
+
+a{
+    margin-left:3rem;
+    text-decoration: none;
+    padding:1rem;
+    background-color: blueviolet;
+    border-radius: 5px;
+    color:#000;
+}
