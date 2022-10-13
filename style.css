@@ -21,3 +21,15 @@ a{
     border-radius: 5px;
     color:#000;
 }
+
+h1{
+    font-size:2rem;
+    margin-left:3rem;
+    margin-top:3rem;
+}
+
+p{
+    margin-left:3rem;
+    line-height:150%;
+    margin-bottom: 2rem;
+}
